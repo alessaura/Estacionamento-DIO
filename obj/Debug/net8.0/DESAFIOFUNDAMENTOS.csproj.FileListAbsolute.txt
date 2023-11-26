@@ -1,0 +1,14 @@
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\bin\Debug\net8.0\DESAFIOFUNDAMENTOS.exe
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\bin\Debug\net8.0\DESAFIOFUNDAMENTOS.deps.json
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\bin\Debug\net8.0\DESAFIOFUNDAMENTOS.runtimeconfig.json
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\bin\Debug\net8.0\DESAFIOFUNDAMENTOS.dll
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\bin\Debug\net8.0\DESAFIOFUNDAMENTOS.pdb
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.AssemblyInfoInputs.cache
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.AssemblyInfo.cs
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.csproj.CoreCompileInputs.cache
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.dll
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\refint\DESAFIOFUNDAMENTOS.dll
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.pdb
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\DESAFIOFUNDAMENTOS.genruntimeconfig.cache
+C:\Users\alssa\OneDrive\Desktop\DESAFIOFUNDAMENTOS\obj\Debug\net8.0\ref\DESAFIOFUNDAMENTOS.dll
